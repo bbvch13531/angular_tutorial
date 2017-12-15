@@ -1,2 +1,2 @@
-# angular_tutorial
+# Angular_tutorial
 Tour of heroes
